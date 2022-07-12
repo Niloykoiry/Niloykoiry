@@ -30,7 +30,7 @@
 ![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=plastic&logo=stack-overflow&logoColor=white)&nbsp;
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=ffffff)&nbsp;
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)&nbsp;
-![Typescript](https://img.shields.io/badge/-TypeScript-white?style=flat&logo=typescript)&nbsp;
+![Typescript](https://img.shields.io/badge/-TypeScript-black?style=flat&logo=typescript)&nbsp;
 ![NextJS](https://img.shields.io/badge/-NextJS-black?style=flat&logo=nextjs)&nbsp;
 ![JQuery](https://img.shields.io/badge/-JQuery-blue?style=flat&logo=jquery)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-FCA121?style=flat&logo=mongodb)&nbsp;
