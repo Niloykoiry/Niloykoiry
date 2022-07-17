@@ -6,7 +6,7 @@
 
 💡 &nbsp;I'm a Full-Stack(MERN) developer having 2years+ experience.\
 🎓 &nbsp;I'm a Mathematics Graduate from University of Dhaka.\
-🌱 &nbsp;I'm on track for learning more about Web3, New technologies related to Web Development, and Data Structure & Algorithm.\
+🌱 &nbsp;I'm on track for learning more about Web3, New technologies related to Web Development, Systems Design, and Data Structure & Algorithm.\
 ✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
 ✉️ &nbsp;You can shoot me an email at koiry.niloy@gmail.com. I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Resume](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!
@@ -30,7 +30,7 @@
 ![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=plastic&logo=stack-overflow&logoColor=white)&nbsp;
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=ffffff)&nbsp;
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)&nbsp;
-![Typescript](https://img.shields.io/badge/-TypeScript-black?style=flat&logo=typescript)&nbsp;
+![Typescript](https://img.shields.io/badge/-TypeScript-white?style=flat&logo=typescript)&nbsp;
 ![NextJS](https://img.shields.io/badge/-NextJS-black?style=flat&logo=nextjs)&nbsp;
 ![JQuery](https://img.shields.io/badge/-JQuery-blue?style=flat&logo=jquery)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-FCA121?style=flat&logo=mongodb)&nbsp;
@@ -54,9 +54,9 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.adityavsingh.com"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/niloy-koiry/"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:koiry.niloy@gmail.com"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<!-- <a href="https://www.adityavsingh.com"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a> -->
+<a href="https://www.linkedin.com/in/niloy-koiry/"><img src="https://img.shields.io/badge/-Linkedin?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:koiry.niloy@gmail.com"><img src="https://img.shields.io/badge/-koiry.niloy@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.facebook.com/niloy.koiry"><img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 <a href="https://wa.me/8801515608951"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
 </p>
