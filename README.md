@@ -55,8 +55,9 @@
 
 <p align="center">
 <!-- <a href="https://www.adityavsingh.com"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a> -->
-<a href="https://www.linkedin.com/in/niloy-koiry/"><img src="https://img.shields.io/badge/-Linkedin?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/niloy-koiry/"><img src="https://img.shields.io/badge/-Niloy%20Koiry-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:koiry.niloy@gmail.com"><img src="https://img.shields.io/badge/-koiry.niloy@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.facebook.com/niloy.koiry"><img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://www.facebook.com/niloy.koiry"><img src="https://img.shields.io/badge/-@niloy.koiry-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 <a href="https://wa.me/8801515608951"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
 </p>
+
