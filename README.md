@@ -23,6 +23,10 @@
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-05122A?style=flat&logo=tailwind-css)
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Styled Components](https://img.shields.io/badge/-Styled%20Components-05122A?style=flat&logo=styled-components)&nbsp;
+![Material UI](https://img.shields.io/badge/-Material%20UI-05122A?style=flat&logo=material-ui)&nbsp;
+![Headless UI](https://img.shields.io/badge/-Headless%20UI-05122A?style=flat&logo=headlessui)&nbsp;
+![Shadcn](https://img.shields.io/badge/-Shadcn-05122A?style=flat&logo=shadcn)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
