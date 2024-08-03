@@ -4,12 +4,12 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I'm a Full-Stack(MERN) developer having 2 years+ experience.\
+💡 &nbsp;I'm a Full-Stack(MERN) developer having 4 years+ experience.\
 🎓 &nbsp; I'm a Mathematics Graduate from the University of Dhaka.\
-🌱 &nbsp; I'm on track for learning more about Web3, New technologies related to Web Development, Systems Design, and Data Structure & Algorithm.\
+🌱 &nbsp; I'm on track to learn more about Web3, New technologies related to Web Development, Systems Design, and Data Structure & Algorithm.\
 ✍️ &nbsp; In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
 ✉️ &nbsp; You can shoot me an email at koiry.niloy@gmail.com. I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Resume](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!
+📄 &nbsp;Please have a look at my [Resume](https://drive.google.com/file/d/17f_opYP2WZCgY0RQQ1RWnqicvhJ5jvg7/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
